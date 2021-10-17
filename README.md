@@ -6,7 +6,7 @@ This is a python script that generates complicated password.
 
 Clone the repository and run the script
 ```bash
-git clone
+git clone https://github.com/arslanblcn/Py-OOP.git
 python3 generate.py --help
 ```
 
