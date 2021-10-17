@@ -10,7 +10,7 @@ git clone https://github.com/arslanblcn/Py-OOP.git
 python3 generate.py --help
 ```
 
-## Usage
+## Usage Guide
 
 ```bash
 usage: generate.py [-h] [-uc] [-lc] [-n] [-sc] -l LENGTH
